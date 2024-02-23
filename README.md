@@ -14,6 +14,6 @@
 
 フィードバックは次回の授業でおこなう
 
-Googkeフォームは以下のURLから開くことができます。
+Googleフォームは以下のURLから開くことができます。
 
 https://forms.gle/zgzyQonHzNEXUm6VA
