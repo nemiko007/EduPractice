@@ -23,3 +23,10 @@ Googleフォームは以下のURLから開くことができます。
 
 https://forms.gle/zgzyQonHzNEXUm6VA
 
+実習で使うサイトはこちらです。
+
+気象庁HP「日々の天気図」
+
+https://www.data.jma.go.jp/fcd/yoho/hibiten/index.html
+
+
